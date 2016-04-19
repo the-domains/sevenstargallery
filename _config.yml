@@ -1,6 +1,6 @@
 name: SevenStarGallery
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.92626
 typography_spectrum: 0.24926
 title: SevenStarGallery_unseen_photograohy_and_visual_culture_berlin
 cta:
@@ -22,7 +22,7 @@ color:
     - '#873b6a'
     - '#0198b5'
     - '#5cb4b6'
-  brandStrength: 0.5625
+  brandStrength: 0
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.75
