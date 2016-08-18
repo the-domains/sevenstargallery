@@ -4,8 +4,15 @@
         <description><![CDATA[SevenStarGallery_unseen_photograohy_and_visual_culture_berlin]]></description>
         <link>https://thegrid.ai/sevenstargallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 11:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 16:05:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sevenstargallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82591150-dbb5-446e-b156-732f88ce29e3.gif">]]></description>
+            <link>https://thegrid.ai/sevenstargallery/test/index.html</link>
+            <guid isPermaLink="false">fe0f9295-9fc9-4f49-949d-405dabc69780</guid>
+            <pubDate>Thu, 18 Aug 2016 16:05:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd4d20ea-3a08-4b18-99d1-56d80d1e40c8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sevenstargallery/sevenstar-gallery-owned-by-artist-mime-dancer-thorsten-h/index.html</link>
             <guid isPermaLink="false">6fe0339a-a544-4aeb-9440-b078e90b268a</guid>
             <pubDate>Mon, 18 Apr 2016 18:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08f142f3-e69d-4bd1-9bb3-dcef519b5a9e.jpg">]]></description>
-            <link>https://thegrid.ai/sevenstargallery/3ea109dc-55d4-464f-828f-188ce199c206/index.html</link>
-            <guid isPermaLink="false">3ea109dc-55d4-464f-828f-188ce199c206</guid>
-            <pubDate>Mon, 18 Apr 2016 18:10:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
