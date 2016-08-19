@@ -1,20 +1,4 @@
-name: SevenStarGallery
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.49747
-title: SevenStarGallery_unseen_photograohy_and_visual_culture_berlin
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fff4e0'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SevenStarGallery
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SevenStarGallery
 purpose: []
