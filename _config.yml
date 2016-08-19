@@ -1,30 +1,42 @@
-layout_spectrum: 0.35868997289799154
-typography_spectrum: 0.16921197692863643
+title: SevenStarGallery
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: _unseen_photograohy_and_visual_culture_berlin
 color:
+  saturation: 0.3512545
+  brandStrength: 0.8596456898376346
+  lightness: 0.2114695
   brandColors:
     - '#25064D'
     - '#36175E'
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-  brandStrength: 0.8596456898376346
-  lightness: 0.2547715932596475
-  saturation: 0.5726837029214948
-  rhythmicContrast: 0.44744491414166987
+  rhythmicContrast: 0.6200717
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: SevenStarGallery
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: SevenStarGallery
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: SevenStarGallery
-description: _unseen_photograohy_and_visual_culture_berlin
-purpose: []
+typography_spectrum: 0
+layout_spectrum: 1
