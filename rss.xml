@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SevenStarGallery_unseen_photograohy_and_visual_culture_berlin]]></title>
-        <description><![CDATA[SevenStarGallery_unseen_photograohy_and_visual_culture_berlin]]></description>
+        <title><![CDATA[SevenStarGallery]]></title>
+        <description><![CDATA[SevenStarGallery]]></description>
         <link>https://thegrid.ai/sevenstargallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 16:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 15:07:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sevenstargallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[about]]></title>
+            <description><![CDATA[<p>SevenStarGallery</p>]]></description>
+            <link>https://thegrid.ai/sevenstargallery/sevenstargallery/index.html</link>
+            <guid isPermaLink="false">723fbcff-dd63-445a-a96d-f587cd71d5dc</guid>
+            <pubDate>Fri, 19 Aug 2016 15:07:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd4d20ea-3a08-4b18-99d1-56d80d1e40c8.jpg">]]></description>
             <link>https://thegrid.ai/sevenstargallery/73c0be73-ea84-4e82-9747-2ac52466aff5/index.html</link>
             <guid isPermaLink="false">73c0be73-ea84-4e82-9747-2ac52466aff5</guid>
             <pubDate>Tue, 19 Apr 2016 11:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[about]]></title>
-            <description><![CDATA[<p>SevenStarGallery</p>]]></description>
-            <link>https://thegrid.ai/sevenstargallery/sevenstargallery/index.html</link>
-            <guid isPermaLink="false">723fbcff-dd63-445a-a96d-f587cd71d5dc</guid>
-            <pubDate>Tue, 19 Apr 2016 11:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
